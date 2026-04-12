@@ -25,4 +25,4 @@ Step Two:
     add honey or sugar
     
     loop:
-        steer with a spoon continouly
+        stir with a spoon continouly
